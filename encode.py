@@ -17,3 +17,4 @@ def encode(size):
     data = data_male.append(data_female)
     data.to_csv('gender_data.csv', index=None)
 
+encode(1000000)

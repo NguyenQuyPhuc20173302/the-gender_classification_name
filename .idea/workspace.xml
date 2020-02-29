@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2b0f314-068f-427a-87d3-6c3646acaef5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gender_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indentification_language_VN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/unicode-2.7.dist-info/DESCRIPTION.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/unicode-2.7.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/unicode-2.7.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/unicode-2.7.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/unicode-2.7.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/unicode-2.7.dist-info/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/unicode-2.7.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/paracode" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/unicode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code_classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_classification.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/encode.py" beforeDir="false" afterPath="$PROJECT_DIR$/encode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gender_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/gender_data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,29 +131,29 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1582738084162">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1582772709477">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582738084162" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1582738084162">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582772709477" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1582772709477">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582738084162" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1582738084162">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582772709477" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1582772709477">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582738084162" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1582738084162">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582772709477" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1582772709477">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582738084162" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582772709477" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1582711004508">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582711004508" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582734813180">
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582768817749">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582734813180" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582768817749" />
   </component>
 </project>

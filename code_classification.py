@@ -7,7 +7,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 import encode
-encode.encode(10000)
+encode.encode(100000)
 data = pd.read_csv('gender_data.csv')
 data = data[0:len(data)]
 data_feature = data['Name']
